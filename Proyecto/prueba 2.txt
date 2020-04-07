@@ -1,0 +1,22 @@
+bool bandera1 ; 
+bandera = falso12 ; 
+entero n2 ; 
+hacer 
+{ 
+deciñal n1 = 18 % 2 ; 
+n2 + + ;  
+n2 - - ; 
+si ( num <= 0 ) 
+{ 
+cadena saludo$ = " hola mundo " 
+} 
+sino si ( número > 2 ) 
+{ 
+entero 3n3 = 12345 ; 
+} 
+sino si ( num == " cafe " ) 
+{ 
+decimal = 17 * 2 / 18 ; 
+cadena mitexto123_abc ; 
+} 
+} 
